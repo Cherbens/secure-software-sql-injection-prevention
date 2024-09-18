@@ -1,4 +1,3 @@
-# Vulnerable web app (for demo purposes, do not use in production)
 import sqlite3
 from flask import Flask, request
 
